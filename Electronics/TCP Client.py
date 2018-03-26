@@ -1,6 +1,10 @@
+#TCP Client in Python
+#David Josue Barrientos Rojas (2017)
+#d[dot]b[dot]gt[at]ieee[dot]org
+#Universidad de San Carlos de Guatemala
+#EE School
 
 import time, os, serial, socket
-
 
 
 TCP_IP= '192.168.1.55'

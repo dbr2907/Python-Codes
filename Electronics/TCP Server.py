@@ -1,3 +1,12 @@
+#TCP Server
+#David Josue Barrientos Rojas (2017)
+#d[dot]b[dot]gt[at]ieee[dot]org
+#Universidad de San Carlos de Guatemala
+#EE School
+
+
+
+
 import socket
 
 import serial
